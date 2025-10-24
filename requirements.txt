@@ -1,0 +1,3 @@
+fastapi
+uvicorn[standard]
+gunicorn  # Recommended for use with Uvicorn worker
